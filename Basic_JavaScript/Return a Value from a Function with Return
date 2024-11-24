@@ -1,0 +1,6 @@
+function timesFive(arg){
+        return arg*5;
+}
+const ans = timesFive(5);
+const ans2 = timesFive(2);
+const ans3 = timesFive(0);
