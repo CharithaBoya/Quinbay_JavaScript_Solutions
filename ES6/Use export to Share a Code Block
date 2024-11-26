@@ -1,0 +1,11 @@
+// Only change code below this line
+export const uppercaseString = (string) => {
+  return string.toUpperCase();
+}
+
+export const lowercaseString = (string) => {
+  return string.toLowerCase();
+}
+// Only change code above this line
+
+const example = "Hello World";
