@@ -1,0 +1,3 @@
+let myString = "Extract the word coding from this string.";
+let codingRegex = /coding/; // Change this line
+let result = myString.match(codingRegex); 
