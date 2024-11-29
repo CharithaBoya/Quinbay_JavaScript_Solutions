@@ -1,0 +1,9 @@
+function factorialize(num) {
+  let pro = 1;
+  for(let i=1;i<=num;i++){
+     pro = pro*i;
+  }
+  return pro;
+}
+
+factorialize(5);
